@@ -1,4 +1,4 @@
-<script>'use strict';
+'use strict';
 
 // The code is a little different in codepen, if you'd like to see the setup that's more true to real-life, it's in this repo: https://github.com/sdras/vue-weather-notifier
 //I had to change a bunch of things around to use vuex in one script tag, most notably that this.$store became just store
@@ -613,5 +613,3 @@ var app = new Vue({
     appTornadoarea: Tornadoarea
   }
 });
-//# sourceURL=pen.js
-</script>
