@@ -3,7 +3,7 @@
 
 @import "https://fonts.googleapis.com/css?family=Amatic+SC|Bad+Script|Satisfy|Shadows+Into+Light|Yellowtail";
 
-body .ui {
+ /* body .ui {
   width: 600px;
   position: absolute;
   left: 0;
@@ -11,7 +11,7 @@ body .ui {
   margin: auto;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
-}
+} */
 body .ui_fruit {
   position: absolute;
   z-index: 34;
